@@ -6,10 +6,15 @@
 </template>
 
 <script>
-import LikeHeader from './LikeHeader'
+import LikeHeader from './components/LikeHeader'
 export default {
     components:{
       LikeHeader
     }
 }
 </script>
+<style scoped>
+div {
+  border: 1px solid blue;
+}
+</style>
