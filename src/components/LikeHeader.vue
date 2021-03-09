@@ -1,3 +1,3 @@
 <template>
-  <h1>いいねだよ</h1>
+  <h1>総いいね数</h1>
 </template>
